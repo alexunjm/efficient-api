@@ -1,0 +1,7 @@
+    1  2021-02-22 18:19:21 go mod init efficient-api
+    2  2021-02-22 18:19:34 touch .env
+    3  2021-02-22 18:20:59 go get github.com/DATA-DOG/go-sqlmock 
+    4  2021-02-22 18:21:01 go get github.com/gin-gonic/gin 
+    5  2021-02-22 18:21:09 go get github.com/go-sql-driver/mysql 
+    6  2021-02-22 18:21:11 go get github.com/joho/godotenv 
+    7  2021-02-22 18:21:50 go get github.com/stretchr/testify
